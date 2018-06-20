@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Duckhunt - En Discord Bot</title>
+    <link>https://duckhunt.me/da/page/</link>
+    <description>Recent content in Pages on Duckhunt - En Discord Bot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://duckhunt.me/da/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://duckhunt.me/da/page/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://duckhunt.me/da/page/faq/</guid>
+      <description>Hvordan spiller jeg?? Det er nemt at spille DuckHunt. Når en and (en besked sendt af botten, som ser sådan ud 🦆 &amp;lt; COUAAC) dukker op på kanalen, brug dh!bang kommandoen for at dræbe den. Du kan lade dit gevær med dh!reload når du ikke har flere kugler i dit nuværende magasin.
+Du kan også få adgang til butikken ved hjælp af dh!shop [navnet på den ting du ville have] til at købe ting du ville få brug for i din jagtkarriere.</description>
+    </item>
+    
+  </channel>
+</rss>

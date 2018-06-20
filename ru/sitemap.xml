@@ -92,6 +92,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="da"
+                href="https://duckhunt.me/da/page/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru"
                 href="https://duckhunt.me/ru/page/"
                 />

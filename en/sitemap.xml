@@ -167,6 +167,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="da"
+                href="https://duckhunt.me/da/page/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://duckhunt.me/en/page/faq/"
                 />
@@ -198,6 +203,11 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://duckhunt.me/ru/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://duckhunt.me/da/page/"
                 />
     <xhtml:link
                 rel="alternate"
