@@ -17,6 +17,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="da"
+                href="https://duckhunt.me/da/author/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru"
                 href="https://duckhunt.me/ru/author/"
                 />
@@ -37,6 +42,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="da"
+                href="https://duckhunt.me/da/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru"
                 href="https://duckhunt.me/ru/categories/"
                 />
@@ -54,6 +64,11 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://duckhunt.me/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://duckhunt.me/da/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -94,6 +109,11 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://duckhunt.me/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://duckhunt.me/da/tags/"
                 />
     <xhtml:link
                 rel="alternate"
