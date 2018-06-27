@@ -19,5 +19,16 @@
 Du kan også få adgang til butikken ved hjælp af dh!shop [navnet på den ting du ville have] til at købe ting du ville få brug for i din jagtkarriere.</description>
     </item>
     
+    <item>
+      <title>Installer Duckhunt</title>
+      <link>https://duckhunt.me/da/page/install-the-bot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://duckhunt.me/da/page/install-the-bot/</guid>
+      <description>For det første, ville jeg gerne takke HostMyServers for at give mig en server til at hoste DuckHunt på. Den er hurtig, pålidelig og godt støttet!
+Tilføjelse af den officielle bot til din server er super let ! Følg instruktionerne:
+ Deltag i vores discord server at få støtte, hvis det er nødvendigt. Du kan spørge en @Moderator for at få @Server Owner rollen, forbeholdt admins af DuckHunt på deres servere!</description>
+    </item>
+    
   </channel>
 </rss>
