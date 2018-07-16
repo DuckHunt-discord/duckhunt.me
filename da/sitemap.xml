@@ -81,13 +81,8 @@
     <loc>https://duckhunt.me/da/page/faq/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://duckhunt.me/en/page/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://duckhunt.me/fr/page/faq/faq/"
+                hreflang="ru"
+                href="https://duckhunt.me/ru/page/faq/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -100,13 +95,8 @@
     <loc>https://duckhunt.me/da/page/install-the-bot/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://duckhunt.me/en/page/install-the-bot/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://duckhunt.me/fr/page/install-the-bot/installer-duckhunt/"
+                hreflang="ru"
+                href="https://duckhunt.me/ru/page/install-the-bot/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -118,16 +108,6 @@
   <url>
     <loc>https://duckhunt.me/da/page/</loc>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://duckhunt.me/en/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://duckhunt.me/fr/page/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"

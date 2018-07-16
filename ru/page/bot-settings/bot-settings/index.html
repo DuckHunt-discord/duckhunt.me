@@ -37,7 +37,23 @@
         <ul class="topnav">
             
                 
+                    <li><a href="/ru/page/install-the-bot/">Install Duckhunt</a></li>
+                
+            
+                
+                    <li><a href="/ru/page/shop-items/">Shop Items</a></li>
+                
+            
+                
                     <li><a href="/ru/page/bot-settings/bot-settings/">Список доступных параметров</a></li>
+                
+            
+                
+                    <li><a href="/ru/page/command-list/">Список команд</a></li>
+                
+            
+                
+                    <li><a href="/ru/page/faq/">ЧаВо</a></li>
                 
             
         </ul>
@@ -140,7 +156,7 @@
 <td>announce_level_up</td>
 <td>boolean</td>
 <td>True</td>
-<td>Уведомлять/не уведомлять о повышении/понижении уровня</td>
+<td>Уведомлять/не уведомлять о повышении/понижении уровня.</td>
 </tr>
 
 <tr>
@@ -182,14 +198,14 @@
 <td>disable_decoys_when_ducks_are_sleeping</td>
 <td>boolean</td>
 <td>True</td>
-<td>Делать/не делать приманки безполезными, когда утки спят (см. sleeping_ducks_start и sleeping_ducks_stop)</td>
+<td>Делать/не делать приманки безполезными, когда утки спят (см. sleeping_ducks_start и sleeping_ducks_stop).</td>
 </tr>
 
 <tr>
 <td>duck_frighten_chance</td>
 <td>целое число</td>
 <td>5</td>
-<td>Устанавливает вероятность того, что утка испугается и улетит, когда в неё стреляют в процентах.</td>
+<td>Устанавливает вероятность того, что утка испугается и улетит, когда в неё стреляют, в процентах.</td>
 </tr>
 
 <tr>
@@ -224,7 +240,7 @@
 <td>language</td>
 <td>строка</td>
 <td>en_EN</td>
-<td>Устанавливает язык, используемый ботом. Используйте формат 2-КОД-ЯЗЫКА-ИЗ-ДВУХ-БУКВ_КОД-СТРАНЫ-ИЗ-ДВУХ-БУКВ (fr_FR, hu_HU, en_US&hellip;). Если указанного языка не будет в базе, то будет автоматически выставлен английский.</td>
+<td>Устанавливает язык, используемый ботом. Используйте формат 2-КОД-ЯЗЫКА-ИЗ-ДВУХ-БУКВ_КОД-СТРАНЫ-ИЗ-ДВУХ-БУКВ (fr_FR, hu_HU, en_US и т. д.). Если указанного языка нет в базе, то будет автоматически выставлен английский.</td>
 </tr>
 
 <tr>
@@ -245,35 +261,35 @@
 <td>pm_most_messages</td>
 <td>boolean</td>
 <td>False</td>
-<td>Отправлять/не отправлять некоторые ответы посредством личных сообщений (о перезарядке, связанные с магазином и т. д.)</td>
+<td>Отправлять/не отправлять некоторые ответы посредством личных сообщений (о перезарядке, связанные с магазином и т. д.).</td>
 </tr>
 
 <tr>
 <td>pm_stats</td>
 <td>boolean</td>
 <td>False</td>
-<td>Отправлять/не отправлять ответ на команду dh!stats посредством личных сообщений</td>
+<td>Отправлять/не отправлять ответ на команду dh!stats посредством личных сообщений.</td>
 </tr>
 
 <tr>
 <td>pm_top</td>
 <td>boolean</td>
 <td>False</td>
-<td>Отправлять/не отправлять ответ на команду dh!top посредством личных сообщений</td>
+<td>Отправлять/не отправлять ответ на команду dh!top посредством личных сообщений.</td>
 </tr>
 
 <tr>
 <td>prefix</td>
 <td>строка</td>
 <td>!</td>
-<td>Устанавливает префикс, который будет использовать бог. Если команды DuckHunt есть в других ботах, то вы можете изменить префикс. Не влияет на префикс dh!, он всегда будет работать.</td>
+<td>Устанавливает префикс, который будет использовать бот. Если команды DuckHunt есть в других ботах, то вы можете изменить префикс. Не влияет на префикс dh!, он всегда будет работать.</td>
 </tr>
 
 <tr>
 <td>randomize_mechanical_ducks</td>
 <td>целое число</td>
 <td>0</td>
-<td>Доступны 3 значения. 0 — механические утки отличаются от обычных. 1 — некоторых уток можно отличить от обычных, некоторых нет. 2 — механические утки не отличаются от обычных.</td>
+<td>Доступно 3 значения. 0 — механические утки отличаются от обычных. 1 — некоторых механических уток можно отличить от обычных, некоторых нет. 2 — механические утки не отличаются от обычных.</td>
 </tr>
 
 <tr>
@@ -301,84 +317,84 @@
 <td>ducks_chance</td>
 <td>целое число</td>
 <td>100</td>
-<td>Устанавливает вероятность того, что появившаяся утка будет обычной.</td>
+<td>Устанавливает вероятность появления обычных уток.</td>
 </tr>
 
 <tr>
 <td>super_ducks_chance</td>
-<td>integer</td>
+<td>целое число</td>
 <td>5</td>
-<td>Probability that a duck that spawns will be a super duck</td>
+<td>Устанавливает вероятность появления суперуток.</td>
 </tr>
 
 <tr>
 <td>baby_ducks_chance</td>
-<td>integer</td>
+<td>целое число</td>
 <td>2</td>
-<td>Probability that a duck that spawns will be a baby duck</td>
+<td>Устанавливает вероятность появления утят.</td>
 </tr>
 
 <tr>
 <td>mother_of_all_ducks_chance</td>
-<td>integer</td>
+<td>целое число</td>
 <td>1</td>
-<td>Probability that a duck that spawns will be a mother of all ducks</td>
+<td>Устанавливает вероятность появления матери всех уток.</td>
 </tr>
 
 <tr>
 <td>super_ducks_exp_multiplier</td>
-<td>float</td>
+<td>число с плавающей точкой</td>
 <td>1.1</td>
-<td>To get experience earned when a hunter kill a superduck, we use the formula rounded_integer(exp_won_per_duck_killed * super_ducks_exp_multiplier * duck_life)</td>
+<td>Устанавливает значение в формуле получения опыта за убийство суперутки. Вот формула: округлить(значение параметра exp_won_per_duck_killed * значение параметра super_ducks_exp_multiplier * кол-во жизней у суперутки).</td>
 </tr>
 
 <tr>
 <td>super_ducks_maxlife</td>
-<td>integer</td>
+<td>целое число</td>
 <td>7</td>
-<td>Maximum life of a super duck</td>
+<td>Устанавливает максимальное возможное кол-во здоровья у суперуток.</td>
 </tr>
 
 <tr>
 <td>super_ducks_minlife</td>
-<td>integer</td>
+<td>целое число</td>
 <td>3</td>
-<td>Minimum life of a super duck</td>
+<td>Устанавливает минимальное возможное кол-во здоровья у суперуток.</td>
 </tr>
 
 <tr>
 <td>tax_on_user_give</td>
-<td>integer</td>
+<td>целое число</td>
 <td>5</td>
-<td>Percentage of exp that will be taken as a tax when a player uses the send_exp command. This can be disabled by setting it to 0.</td>
+<td>Устанавливает комиссию в процентах при передаче опыта с использованием dh!send_exp. Для отключения выставите 0.</td>
 </tr>
 
 <tr>
 <td>time_before_ducks_leave</td>
-<td>integer</td>
+<td>целое число</td>
 <td>660</td>
-<td>Time in seconds before a duck leaves of boredom if he isn&rsquo;t killed.</td>
+<td>Устанавливает время в секундах, по истечению которого утка уйдёт со скуки.</td>
 </tr>
 
 <tr>
 <td>tts_ducks</td>
-<td>bool</td>
+<td>boolean</td>
 <td>False</td>
-<td>Try to speak when ducks appear. Experimental setting.</td>
+<td>Пытаться/не пытаться использовать text-to-speech, когда появляется утка. Экспериментальный параметр.</td>
 </tr>
 
 <tr>
 <td>user_can_give_exp</td>
-<td>bool</td>
+<td>boolean</td>
 <td>True</td>
-<td>Allow users to send each other experience points with the send_exp command.</td>
+<td>Разрешить/не разрешить охотникам использовать dh!send_exp.</td>
 </tr>
 
 <tr>
 <td>users_can_find_objects</td>
-<td>bool</td>
+<td>boolean</td>
 <td>True</td>
-<td>Allow users to find objects in bushes. Some objects are trash, some objects will benefit the hunter.</td>
+<td>Разрешить/не разрешить охотникам копаться в кустах.</td>
 </tr>
 </tbody>
 </table>
@@ -398,17 +414,6 @@
 
     
 
-    
-    <div class="languages">
-        <i class="fa fa-language"></i>
-        <div class="links">
-            
-                <a href="https://duckhunt.me/en/page/bot-settings/">en</a>
-            
-                <a href="https://duckhunt.me/fr/page/bot-settings/preferences/">fr</a>
-            
-        </div>
-    </div>
     
 </div>
 

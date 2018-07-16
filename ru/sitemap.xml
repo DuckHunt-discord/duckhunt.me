@@ -78,18 +78,22 @@
   </url>
   
   <url>
+    <loc>https://duckhunt.me/ru/page/install-the-bot/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://duckhunt.me/da/page/install-the-bot/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://duckhunt.me/ru/page/install-the-bot/"
+                />
+  </url>
+  
+  <url>
     <loc>https://duckhunt.me/ru/page/</loc>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://duckhunt.me/en/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://duckhunt.me/fr/page/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
@@ -100,6 +104,10 @@
                 hreflang="ru"
                 href="https://duckhunt.me/ru/page/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://duckhunt.me/ru/page/shop-items/</loc>
   </url>
   
   <url>
@@ -129,20 +137,23 @@
   
   <url>
     <loc>https://duckhunt.me/ru/page/bot-settings/bot-settings/</loc>
+  </url>
+  
+  <url>
+    <loc>https://duckhunt.me/ru/page/command-list/</loc>
+  </url>
+  
+  <url>
+    <loc>https://duckhunt.me/ru/page/faq/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://duckhunt.me/en/page/bot-settings/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://duckhunt.me/fr/page/bot-settings/preferences/"
+                hreflang="da"
+                href="https://duckhunt.me/da/page/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://duckhunt.me/ru/page/bot-settings/bot-settings/"
+                href="https://duckhunt.me/ru/page/faq/"
                 />
   </url>
   
