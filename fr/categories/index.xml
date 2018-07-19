@@ -9,5 +9,14 @@
 	<atom:link href="https://duckhunt.me/fr/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Changelog</title>
+      <link>https://duckhunt.me/fr/categories/changelog/</link>
+      <pubDate>Wed, 14 Mar 2018 20:00:00 +0200</pubDate>
+      
+      <guid>https://duckhunt.me/fr/categories/changelog/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

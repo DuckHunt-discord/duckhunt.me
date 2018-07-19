@@ -7,7 +7,7 @@
         <meta name="author" content="Arthur">
         <meta name="description" content="Duckhunt is a discord game bot where you have to shot ducks to win">
         <meta name="keywords" content="Discord, bot, help, game, text, duckhunt">
-        <meta name="generator" content="Hugo 0.45-DEV" />
+        <meta name="generator" content="Hugo 0.44" />
 
         <link rel="icon" type="image/png" href="https://duckhunt.me/favicon-32x32.png" sizes="32x32">
         <link rel="icon" type="image/png" href="https://duckhunt.me/favicon-16x16.png" sizes="16x16">
@@ -35,6 +35,26 @@
 
     <div class="container">
         <ul class="topnav">
+            
+                
+                    <li><a href="/en/page/bot-settings/">Bot Settings</a></li>
+                
+            
+                
+                    <li><a href="/en/page/command-list/">Command list</a></li>
+                
+            
+                
+                    <li><a href="/en/page/faq/">FAQ</a></li>
+                
+            
+                
+                    <li><a href="/en/page/install-the-bot/">Install Duckhunt</a></li>
+                
+            
+                
+                    <li><a href="/en/page/shop-items/">Shop Items</a></li>
+                
             
         </ul>
 
@@ -120,66 +140,66 @@
     </div>
 
     
-        <p>Многое изменилось и это ещё не конец! :)</p>
+        <p>A lot of things changed, internally and externally, and it&rsquo;s not the end of the changes :).</p>
 
-<p>Снизу вы найдёте полный список изменений. Если найдёте баг, просим сообщить о нём.</p>
+<p>The full changelog is to be seen below. Please, as usual, report any bug you find.</p>
 
 <p></p>
 
-<p>Если вы хотите мне помочь, то вы можете это сделать одним из следующих способов:</p>
+<p>If you want to help me further, there is a few things I&rsquo;d take help on :</p>
 
 <ul>
-<li>Локализация (много текста изменилось, на данный момент локализация не закончена)</li>
-<li>Оформление сайта. Вы классный дизайнер? Тогда нам очень нужна ваша помощь!</li>
-<li>Создание раздела ЧаВо. От вас не требуются навыки в программировании</li>
-<li>Материальная помощь: <a href="http://ko-fi.com/duckhunt" title="http://ko-fi.com/duckhunt">http://ko-fi.com/duckhunt</a></li>
+<li>Translating the bot (A lot of sentences were added/changed, and the translations aren&rsquo;t complete ATM)</li>
+<li>Creating artwork for the website: if you have the heart of a graphic designer, and have some free time, please join us!</li>
+<li>Helping me building a FAQ for the new website. No coding necessary, and any help is welcome!</li>
+<li>Buy me some tea, and support the development of the bot here : <a href="http://ko-fi.com/duckhunt" title="http://ko-fi.com/duckhunt">http://ko-fi.com/duckhunt</a></li>
 </ul>
 
-<p>Если хотите помочь, получить помощь или поговорить насчёт бота, то пишите мне в ЛС или в канал #support_english: <a href="https://discord.gg/G4skWae">https://discord.gg/G4skWae</a> Перейдём к списку изменений.</p>
+<p>If you want to help, support, or have any question regarding the bot, I&rsquo;m open to PM, and you can post in #support_english on the support server here : <a href="https://discord.gg/G4skWae">https://discord.gg/G4skWae</a> Now, what&rsquo;s new ?</p>
 
 <ul>
-<li>Для игроков:
+<li>For players:
 
 <ul>
-<li>Добавлены события. Чтобы проверить, есть ли сейчас активное событие, используйте dh!event. События происходят на всех серверах сразу, во время событий происходят некоторые изменения (активность уток и т. д.).</li>
-<li>Добавлена поддержка общих эмодзи</li>
-<li>Добавлены подсказки, связанные с частыми вопросами</li>
-<li>Теперь команды нечувствительны к регистру: !BaNg или !SHOOt теперь работают</li>
-<li>Теперь вам не нужно запоминать номера предметов в магазине: используйте !shop charger, !shop bullet и т. д.</li>
-<li>Добавлены пасхалки</li>
-<li>Теперь бот собирает больше данных</li>
-<li>У нас появился ещё один сайт <a href="https://duckhunt.me">https://duckhunt.me</a>. На нём есть обновлённый список команд, параметров, а также новый раздел ЧаВо.</li>
+<li>Events have been added. Check the bot playing status and the !event command. An event is something that happens across every server at once and changes, for the better or the worse, some pre-defined variables (number of ducks, lag, super-ducks life&hellip;).</li>
+<li>Global emoji support has been added</li>
+<li>Hints have been added to answer the most common questions before you even think of them</li>
+<li>Commands are now case insensitive: !BANg or !ReLoAD now work too</li>
+<li>You don&rsquo;t have to enter the shop number anymore: !shop charger, !shop bullet&hellip; works too.</li>
+<li>Some easter eggs have been added</li>
+<li>More statistics are now collected to be used later</li>
+<li>A new website is available at <a href="https://duckhunt.me">https://duckhunt.me</a>. It contains the updated command list and settings list, plus a brand-new FAQ.</li>
 </ul></li>
-<li>Для администраторов:
+<li>For server admins:
 
 <ul>
-<li>Команда dh!coin теперь позволяет изменить количество здоровья у суперутки и её статус</li>
-<li>Чтобы показать уток, которые сейчас в канале, мы изменили систему</li>
-<li>Вместо dh!claimserver теперь новая команда для установки (dh!setup)</li>
-<li>Теперь администраторы сервера по умолчанию являются администраторами бота</li>
-<li>Удалён параметр global_scores, т. к. его очень редко использовали</li>
-<li>Теперь dh!settings и dh!settings set показывают параметры прямо в чате</li>
-<li>Теперь при передаче опыта по умолчанию есть комиссия</li>
-<li>Параметр emoji_ducks теперь имеет значение по умолчанию true (вкл.)</li>
+<li>The coin command allows the user to choose the life and the super-duck status of a spawned duck</li>
+<li>Duckplanning has been updated to show the current ducks in the channel</li>
+<li>New setup command to replace the !claimserver one (!setup)</li>
+<li>Users with the administrator permission are now admins by default</li>
+<li>global_scores has been removed, as it was rarely used</li>
+<li>settings list and setting modified now show the settings in-chat</li>
+<li>send_exp is now taxed by default</li>
+<li>emoji_ducks is now enabled by default</li>
 </ul></li>
-<li>Для разработчиков:
+<li>For developers:
 
 <ul>
-<li>Теперь бот использует новую библиотеку python.py</li>
-<li>Теперь нет файла .json (бот работает быстрее)</li>
-<li>Бот разделён на «части» (теперь поддерживает больше серверов одновременно)</li>
-<li>Поддержка Hastebin убрана, теперь работают длинные сообщения</li>
-<li>Команда dh!ping теперь работает лучше</li>
-<li>Добавлены некоторые баги</li>
+<li>The bot now uses discord.py rewrite</li>
+<li>There is no json file anymore (As a result, the bot is faster)</li>
+<li>The bot is sharded (Can support more than 2500 servers)</li>
+<li>Hastebin support was replaced by long messages support</li>
+<li>The ping command is clearer now</li>
+<li>Bugs have been added too</li>
 </ul></li>
-<li>Для хостеров (если вы не знаете, кто это, значит вы к ним не относитесь):
+<li>For self-hosters (if you don&rsquo;t know what that is, you aren&rsquo;t one):
 
 <ul>
-<li>Добавлен скрипт для переноса .json-файла с настройками, скоро будет доступна новая схема базы данных</li>
+<li>A migration script for the json file has been provided, and the new database scheme will be available soon</li>
 </ul></li>
 </ul>
 
-<p>С любöвью, Артур</p>
+<p>With löve, Arthur</p>
     
 </div>
 
@@ -189,6 +209,15 @@
 
     
 
+    
+    <div class="languages">
+        <i class="fa fa-language"></i>
+        <div class="links">
+            
+                <a href="https://duckhunt.me/fr/article/duckhunt-v3-changelog/">fr</a>
+            
+        </div>
+    </div>
     
 </div>
 
