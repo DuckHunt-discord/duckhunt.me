@@ -10,6 +10,16 @@
     
     
     <item>
+      <title>Butiksartikler</title>
+      <link>https://duckhunt.me/da/page/shop-items/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://duckhunt.me/da/page/shop-items/</guid>
+      <description>Du kan købe genstande med kommandoen dh!shop [ting nummer] [mulige parametre, såsom @mål kaldenavn] Du skal have nok exp til at købe en vare.
+   Shop ID Tingens navn Beskrivelse Exp-pris     1 Ekstra kugle En kugle tilføjes direkte ind i våbenkammeret. 7   2 Ekstra magasin Et magasin er tilføjet til din beholdning. 13   3 PB ammo Skade x2 i 24t. Hjælper med at dræbe super-ænder.</description>
+    </item>
+    
+    <item>
       <title>FAQ</title>
       <link>https://duckhunt.me/da/page/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

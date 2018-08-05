@@ -28,6 +28,20 @@
   </url>
   
   <url>
+    <loc>https://duckhunt.me/da/page/shop-items/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://duckhunt.me/en/page/shop-items/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://duckhunt.me/da/page/shop-items/"
+                />
+  </url>
+  
+  <url>
     <loc>https://duckhunt.me/da/categories/</loc>
     <priority>0</priority>
     <xhtml:link
